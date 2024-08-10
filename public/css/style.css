@@ -69,6 +69,10 @@ main ul li:hover{
     color: white;
 }
 footer{
+    padding-top: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-self: start;
     min-height: 5vh;
     background-color: #95d1cc;
 }
